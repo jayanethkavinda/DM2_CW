@@ -8,7 +8,7 @@
 
 class MongoDataService {
     // 🌐 MongoDB Atlas Cloud Connection URI
-    private static $connectionString = "mongodb+srv://kavindakavinda1017_db_user:s18BIH4IkseP4vz2@lifeline.vjevozc.mongodb.net/?retryWrites=true&w=majority&appName=Lifeline";
+    private static $connectionString = "mongodb+srv://kavindakavinda1017_db_user:1017Jaya@lifeline.vjevozc.mongodb.net/?retryWrites=true&w=majority&appName=Lifeline";
     
     private static $mongoManager = null;
     private static $databaseName = "lifeline_connect";
